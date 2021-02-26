@@ -12,7 +12,7 @@
     <!-- About -->
     <div class="btn-group">
         <button type="button" class="btn" data-bs-toggle="dropdown" data-bs-display="static" aria-expanded="false">
-            <img src="banner1.jpg">
+            <img src="img/panah.png" class="panah">
             Left-aligned but right aligned when large screen
         </button>
         <p class="dropdown-menu dropdown-menu-lg-end">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
