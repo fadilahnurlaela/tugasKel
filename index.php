@@ -10,6 +10,11 @@
 </head>
 <body>
     <!-- About -->
+    <div class="container-fluid">
+    <div class="article">
+    <h1 class="ah1">About</h1>
+    <p class="p1">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque quam cum distinctio, sunt dolor vitae accusamus, 
+        nihil est cupiditate aliquid molestiae porro quis soluta perspiciatis, nisi enim voluptatibus velit officia.</p>
     <div class="btn-group">
         <button type="button" class="btn" data-bs-toggle="dropdown" data-bs-display="static" aria-expanded="false">
             <img src="img/panah.png" class="panah">
@@ -19,6 +24,8 @@
             Adipisci velit sequi iste, dolorem labore distinctio quibusdam 
             enim harum explicabo veniam, error amet aspernatur debitis libero. 
             Cupiditate est ex eum! Magnam.</p>
+    </div>
+    </div>
     </div>
     <script src="./js/bootstrap.bundle.min.js"></script>
 </body>

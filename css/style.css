@@ -3,8 +3,9 @@
     color: white;
 }
 .btn-group{
-    width: 1280px;
-    border-radius: 0px;  
+    width: 1268px;
+    border-radius: 0px;
+    margin-left: -15px;  
 }
 .btn{
     text-align: left;
@@ -12,4 +13,10 @@
 .panah{
     width: 20px;
     height: 10px;
+}
+.ah1{
+    text-align: center;
+}
+.p1{
+    text-align: justify;
 }
