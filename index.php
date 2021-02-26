@@ -5,20 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <!-- dropdown -->
-<div class="dropdown">
-  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Dropdown link
-  </a>
-
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem mollitia vitae, obcaecati dolore esse qui quas nemo accusantium sint ex, 
-    doloremque dolorem labore vel, quo tenetur dolorum aliquid. Voluptatibus, est.</p>
-  </div>
-</div>
+    <!-- About -->
+    <div class="btn-group">
+        <button type="button" class="btn" data-bs-toggle="dropdown" data-bs-display="static" aria-expanded="false">
+            <img src="banner1.jpg">
+            Left-aligned but right aligned when large screen
+        </button>
+        <p class="dropdown-menu dropdown-menu-lg-end">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Adipisci velit sequi iste, dolorem labore distinctio quibusdam 
+            enim harum explicabo veniam, error amet aspernatur debitis libero. 
+            Cupiditate est ex eum! Magnam.</p>
+    </div>
     <script src="./js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
