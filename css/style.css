@@ -23,3 +23,12 @@
 .p1{
     text-align: justify;
 }
+.footer-widget{
+    background-color: blue;
+}
+.single-footer-widget{
+    margin-left: 10px;
+}
+.label{
+    width: 200px;
+}

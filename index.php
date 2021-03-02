@@ -27,6 +27,7 @@
             </div>
         </div>
     </div>
+    <br/></br></br></br>
     <!-- Footer -->
 <footer class="footer-section spad">
 
@@ -36,6 +37,17 @@
             <div class="single-footer-widget">
                 <table width="100%" class="table">
                     <tr>
+                        <td>
+                            <div class="label mb-3">
+                                <label for="exampleFormControlInput1" class="form-label">Email</label>
+                                    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                            </div>
+                            <div class="label mb-3">
+                                <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                <button type="submit" class="button btn btn-primary mb-3">Kirim</button>
+                            </div>
+                        </td>
                         <td>
                             <h4>Produk</h4>
                             <ul>
