@@ -45,7 +45,7 @@
                             <div class="label mb-3">
                                 <label for="exampleFormControlTextarea1" class="form-label">Message</label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-                                <button type="submit" class="button btn btn-primary mb-3">Kirim</button>
+                                <button type="submit" class="button btn btn-primary mb-3">Send</button>
                             </div>
                         </td>
                         <td>
