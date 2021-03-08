@@ -81,6 +81,12 @@
                                 <li>Persyaratan</li>
                             </ul>
                         </td>
+                        <td>
+                            <div class="label1">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.705236475695!2d107.13949661395117!3d-6.805666368453325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6852e697990cef%3A0x2ddbb36bc8af404e!2sUniversitas%20Suryakancana!5e0!3m2!1sid!2sid!4v1615167700312!5m2!1sid!2sid" 
+                            width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                            </div>
+                        </td>
                     </tr>
                     <tr>
                     </tr>
