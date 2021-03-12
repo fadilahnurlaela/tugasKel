@@ -186,6 +186,7 @@
                         </div>
                         <!-- akhir disert -->
                         <!-- awal cemilan -->
+                        <p> ini adalah contoh</p>
                         <!-- akhir cemilan -->
 
                     </div>
