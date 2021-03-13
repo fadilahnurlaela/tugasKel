@@ -53,3 +53,37 @@
     white-space: nowrap;
   }
   */
+.btn-group{
+    width: 1268px;
+    border-radius: 0px;
+    margin-left: -15px;  
+}
+.dropdown-menu{
+    margin-left: 20px;
+}
+.btn{
+    text-align: left;
+}
+.panah{
+    width: 20px;
+    height: 10px;
+}
+.ah1{
+    text-align: center;
+}
+.p1{
+    text-align: justify;
+}
+.footer-widget{
+    background-color: blue;
+}
+.single-footer-widget{
+    margin-left: 10px;
+}
+.label{
+    width: 200px;
+}
+.label{
+    margin-right: 90px;
+}
+
