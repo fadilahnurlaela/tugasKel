@@ -8,3 +8,127 @@
 .row{
     padding-top: 20px;
 }
+.card{
+    width: 265px;
+    height: 200px;
+}
+.tx{
+    font-size:15px;
+    text-align:center;
+}
+.txb{
+    font-size:10px;
+    text-align:center;
+}
+.box-title-content {
+    margin: 2rem auto 5rem auto;
+    padding: 1rem;
+    width: 600px;
+    text-align: center;
+    background-color: transparent;
+    border: 2px solid black;
+    color: black;
+}
+
+.container-fluid {
+    position: relative;
+ }
+.image {
+    display: block;
+    width: 262px;
+    height: 200px;
+}
+.overlay1 {
+    position: absolute;
+    bottom: 100%;
+    left: 0;
+    right: 0;
+    background-color: grey !important;
+    overflow: hidden;
+    width: 100%;
+    height:0;
+    transition: .5s ease;
+            }
+            .overlay2 {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background-color: grey !important;
+            overflow: hidden;
+            width: 100%;
+            height: 0;
+            transition: .5s ease;
+            }
+            .container-fluid:hover .overlay1 {
+            bottom: 0;
+            height: 200px;
+            }
+            .container-fluid:hover .overlay2 {
+                height: 200px;
+            }
+            .text {
+            color: white;
+            font-size: 20px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            text-align: center;    
+            }
+            
+            .food .list-product {
+                opacity:0;
+            }
+            .food .list-produk.muncul{
+                opacity:1;
+            }
+#best-kopi{
+    margin-top: 150px;
+}
+.overlay3 {
+    position: absolute;
+    bottom: 0;
+    left: 100%;
+    right: 0;
+    background-color: grey !important;
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    transition: .5s ease;
+}
+.container-fluid:hover .overlay3 {
+    width: 100%;
+    left: 0;
+}
+.overlay4 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: grey !important;
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    transition: .5s ease;
+}
+.container-fluid:hover .overlay4 {
+    width: 100%;
+}
+.overlay5 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: grey !important;
+    opacity: 0;
+    height: 100%;
+    width: 100%;
+    transition: .5s ease;
+}
+.container-fluid:hover .overlay5 {
+    opacity: 1;
+}
